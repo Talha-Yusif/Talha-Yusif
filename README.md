@@ -6,7 +6,7 @@
 
 <!-- 🖼️ Custom Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/DYv6gWc/Full-Stack-Banner.png" alt="Talha Yusif - Aspiring Full Stack Developer" width="100%" />
+  <img src="https://github.com/Talha-Yusif/Talha-Yusif/blob/main/ChatGPT%20Image%20Oct%2022%2C%202025%2C%2002_14_41%20PM.png" alt="Talha Yusif - Aspiring Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Talha Yusif</span></h1>
